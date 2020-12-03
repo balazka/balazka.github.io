@@ -2,13 +2,13 @@
 <h4 align="center">About me &nbsp;&nbsp; Publications</h4>
 <br>
 <center><p float="left">
-  <img src="images/Email.png" width="30" />
-  <a href="https://twitter.com/DBalazka"> <img src="images/Twitter.png" width="30" /> </a>
-  <img src="images/Linkedin.png" width="30" />
-  <img src="images/Orcid.png" width="30" />
-  <img src="images/ResearchGate.png" width="30" />
-  <img src="images/Academia.png" width="30" />
-  <img src="images/googleScholar.png" width="30" />
+  <img src="images/Email.png" width="30" /> &nbsp;
+  <a href="https://twitter.com/DBalazka"> <img src="images/Twitter.png" width="30" /> </a> &nbsp;
+  <img src="images/Linkedin.png" width="30" /> &nbsp;
+  <img src="images/Orcid.png" width="30" /> &nbsp;
+  <img src="images/ResearchGate.png" width="30" /> &nbsp;
+  <img src="images/Academia.png" width="30" /> &nbsp;
+  <img src="images/googleScholar.png" width="30" /> &nbsp;
 </p>
 <hr>
 <br>
