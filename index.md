@@ -2,13 +2,13 @@
 <h4 align="center">About me &nbsp;&nbsp; Publications</h4>
 <br>
 <center><p float="left">
-  <img src="images/Email.png" width="30" /> &nbsp;
-  <a href="https://twitter.com/DBalazka"> <img src="images/Twitter.png" width="30" /> </a> &nbsp;
-  <img src="images/Linkedin.png" width="30" /> &nbsp;
-  <img src="images/Orcid.png" width="30" /> &nbsp;
-  <img src="images/ResearchGate.png" width="30" /> &nbsp;
-  <img src="images/Academia.png" width="30" /> &nbsp;
-  <img src="images/googleScholar.png" width="30" /> &nbsp;
+  <a href="dominik.balazka@unimi.it"> <img src="images/Email.png" width="30" /> </a>
+  <a href="https://twitter.com/DBalazka"> <img src="images/Twitter.png" width="30" /> </a>
+  <a href="https://www.linkedin.com/in/dominikbalazka/?locale=en_US"> <img src="images/Linkedin.png" width="30" /> </a>
+  <a href="http://orcid.org/0000-0002-1070-8673"> <img src="images/Orcid.png" width="30" /> </a>
+  <a href="https://www.researchgate.net/profile/Dominik_Balazka"> <img src="images/ResearchGate.png" width="30" /> </a>
+  <a href="https://unimi.academia.edu/DominikBalazka"> <img src="images/Academia.png" width="30" /> </a>
+  <a href="https://scholar.google.com/citations?user=5exeJbgAAAAJ&hl=en"> <img src="images/googleScholar.png" width="30" /> </a>
 </p>
 <hr>
 <br>
