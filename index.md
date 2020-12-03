@@ -12,11 +12,11 @@ I’m a PhD student in Sociology and Methodology of Social Research at the Unive
 </p>
 <p float="left">
   <img src="FBKlogo.png" width="200" />
-  <img src="https://media.salonedellostudente.it/app/uploads/2020/05/19152130/marchio_unitrento_colore_it.jpg" width="200" /> 
+  <img src="unitnlogo.png" width="200" /> 
   <img src="https://europeanvaluesstudy.eu/wp-content/uploads/2018/09/logo-evs.png" width="200" />
 </p>
 <p float="left">
-  <img src="https://lh3.googleusercontent.com/proxy/CDJWPLKJVu55i3O43vqiGiWPsFH3pgqqjQOO32bsF26f6odXK44Ha9N9D2eR15QaoYdND5n8aEWdqftsBX_bjycB8B1rA6iOXstdezUDmuVtBS2zQf1PXOdabwR4oBdSSZgVtZVbfUUIKEQoIDKYYOAGegP_" width="200" />
+  <img src="Tilburglogo.png" width="200" />
   <img src="https://confronti.net/wp-content/uploads/2020/04/small-confronti_logo_2048%C3%971080px_blu-e1586533865817.png" width="200" /> 
   <img src="https://lh3.googleusercontent.com/proxy/xi6hOGR9XykfJcSH-FdxcICV6QJNXwojOUk8h561FV9VHGju13yzHjYguE-vh97dGEQm2KVmJtCgBOIRYmrRqzET4C_5eY3SIg" width="200" />
 </p>
