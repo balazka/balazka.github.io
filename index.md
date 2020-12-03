@@ -11,7 +11,7 @@ I’m a PhD student in Sociology and Methodology of Social Research at the Unive
   <img src="https://academicpositions.com/uploads/f6c/c18/f6cc18a58f0f55362e3c0ffb75f57909.png" width="200" />
 </p>
 <p float="left">
-  <img src="https://www.ufficiostampa.provincia.tn.it/var/002/storage/images/conferenza-climrisk19-a-cura-della-societa-italiana-per-le-scienze-del-clima-sisc/promotori/fondazione-bruno-kessler/2795123-1-ita-IT/Fondazione-Bruno-Kessler_imagefull.jpg" width="200" />
+  <img src="FBKlogo.png" width="200" />
   <img src="https://media.salonedellostudente.it/app/uploads/2020/05/19152130/marchio_unitrento_colore_it.jpg" width="200" /> 
   <img src="https://europeanvaluesstudy.eu/wp-content/uploads/2018/09/logo-evs.png" width="200" />
 </p>
