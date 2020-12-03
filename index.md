@@ -1,6 +1,6 @@
 <h1 align="center">Dominik Balažka</h1>
 <h4 align="center">About me &nbsp;&nbsp; Publications</h4>
-<p float="left">
+<center><p float="left">
   <img src="images/Email.png" width="30" />
   <a href="https://twitter.com/DBalazka"> <img src="images/Twitter.png" width="30" /> </a>
   <img src="images/Linkedin.png" width="30" />
