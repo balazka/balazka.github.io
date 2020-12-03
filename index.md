@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+<h1 align="center">Dominik Balažka</h1>
+<h4 align="center">About me &nbsp &nbsp Publications</h4>
 
 You can use the [editor on GitHub](https://github.com/Balazka/Balazka.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
