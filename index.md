@@ -16,7 +16,6 @@
 <br>
 <br>
 <br>
-<br>
 <p float="left">
   <img src="https://www.unimi.it/sites/default/files/2019-05/LogoFooter_a9f0c3692bf29c71609e5f204522c5d4_0.png" width="200" />
   <img src="https://www.unito.it/sites/all/themes/bsunito/img/logo_new.svg" width="200" /> 
