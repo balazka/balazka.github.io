@@ -1,8 +1,8 @@
-<h1 align="center">Dominik Balažka</h1>
+<h1 color="blue" align="center">Dominik Balažka</h1>
 <h4 align="center">About me &nbsp;&nbsp; Publications</h4>
 <br>
 <center><p float="left">
-  <a href="dominik.balazka@unimi.it"> <img src="images/Email.png" width="25" /> </a> &nbsp;
+  <a href="mailto:dominik.balazka@unimi.it"> <img src="images/Email.png" width="25" /> </a> &nbsp;
   <a href="https://twitter.com/DBalazka"> <img src="images/Twitter.png" width="25" /> </a> &nbsp;
   <a href="https://www.linkedin.com/in/dominikbalazka/?locale=en_US"> <img src="images/Linkedin.png" width="25" /> </a> &nbsp;
   <a href="http://orcid.org/0000-0002-1070-8673"> <img src="images/Orcid.png" width="25" /> </a> &nbsp;
@@ -13,6 +13,7 @@
 <hr>
 <br>
 <h6 align="left">I’m a PhD student in Sociology and Methodology of Social Research at the University of Milan and University of Turin, a joint PhD program of the Network for the Advancement of Social and Political Studies. The main focus of my current research activity is on religious nones, survey methods and potential impact of Big Data on the emerging field of non-religion studies.</h6>
+<br>
 <br>
 <br>
 <p float="left">
