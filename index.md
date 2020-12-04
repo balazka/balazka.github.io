@@ -1,4 +1,5 @@
-<h1 color="blue" align="center">Dominik Balažka</h1>
+<h1 align="center">Dominik Balažka</h1>
+<h1 align="center"><a href="https://balazka.github.io/">Dominik Balažka</a></h1>
 <h4 align="center">About me &nbsp;&nbsp; Publications</h4>
 <br>
 <center><p float="left">
