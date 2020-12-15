@@ -1,6 +1,9 @@
 <h1 align="center"><a href="https://www.nasp.eu/people/students/students-cohorts/dominik-balaz%CC%8Cka.html">Dominik Balažka</a></h1>
 <br>
-<img src="images/Profile_rounded.png" alt="Profile_pic" class="center" width="150">
+<center><p float="left">
+  <a href=""> <img src="images/Profile_rounded.png" width="150" /> </a>
+</p>
+<br>
 <h6 align="justify">I’m a PhD student in Sociology and Methodology of Social Research at the University of Milan and University of Turin, a joint PhD program of the Network for the Advancement of Social and Political Studies. The main focus of my current research activity is on religious nones, survey methods and potential impact of Big Data on the emerging field of non-religion studies.</h6>
 
 <br>
