@@ -1,3 +1,4 @@
+<link rel="shortcut icon" type="image/x-icon" href="images/Favicon_DB.ico">
 <h1 align="center"><a href="https://www.nasp.eu/people/students/students-cohorts/dominik-balaz%CC%8Cka.html">Dominik Balažka</a></h1>
 <br>
 <center><p float="left">
