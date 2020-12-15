@@ -26,6 +26,9 @@
   
 <h4 align="left">Projects and data repositories:</h4>
 <h6 align="left">• Rodighiero, D., & Balazka, D. (2020). <a href="https://github.com/rodighiero/NSRN">Cartography of Nonreligion and Secularity Research Network</a>. (work in progess)</h6>
+<center><p float="left">
+  <img src="images/NSRN.png" width="1000" />
+</p>
 <br>
   
 <h4 align="left">Reports and popular press:</h4>
