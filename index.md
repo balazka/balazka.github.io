@@ -1,4 +1,5 @@
 <h1 align="center"><a href="https://www.nasp.eu/people/students/students-cohorts/dominik-balaz%CC%8Cka.html">Dominik Balažka</a></h1>
+<br>
 <center><p float="left">
   <img src="images/Profile_rounded.png" width="200" />
 </p>
@@ -15,4 +16,19 @@
 </p>
 <hr>
 <br>
-
+<h4 align="left">Peer-reviewed articles:</h4>
+<h6 align="left">Balazka, D., & Rodighiero, D. (2020). <a href="https://doi.org/10.3389/fdata.2020.00031">Big Data and the Little Big Bang: An Epistemological (R)evolution</a>. Frontiers in Big Data 3, 31: 1-13.  DOI: 10.3389/fdata.2020.00031.</h6>
+<br>
+  
+<h4 align="left">Conferences and webinars:</h4>
+<h6 align="left">Balazka, D., & Rodighiero, D. (2021, February 24). <a href="https://docs.google.com/a/fbk.eu/viewer?a=v&pid=sites&srcid=ZmJrLmV1fGFyZ3VpbmdyZWxpZ2lvbjIwMjB8Z3g6NmRhODA5Y2ZhNzI4OWRlNg">Was Blumer Right? Religious Values and Quantified Self in the Petabyte Age</a>. Artificial Intelligence and Religion 2020/21, Trento, Italy.</h6>
+<br>
+  
+<h4 align="left">Projects and data repositories:</h4>
+<h6 align="left">Rodighiero, D., & Balazka, D. (2020). <a href="https://github.com/rodighiero/NSRN">Cartography of Nonreligion and Secularity Research Network</a>. (work in progess)</h6>
+<br>
+  
+<h4 align="left">Reports and popular press:</h4>
+<h6 align="left">Balazka, D. (2020, September 21). <a href="https://magazine.fbk.eu/en/news/big-data-big-faith-about-beliefs-and-biases-in-algorithmic-decision-making/">Big Data, Big Faith? About Beliefs and Biases in Algorithmic Decision-Making</a>. FBK Magazine.</h6>
+<h6 align="left">Balazka, D. (2020, September 1). <a href="https://magazine.fbk.eu/it/news/la-non-religione-nel-mondo/">La Non-Religione nel Mondo</a>. FBK Magazine.</h6>
+<h6 align="left">Balazka, D. (2020). <a href="https://isr.fbk.eu/wp-content/uploads/2020/07/Mapping-Religious-Nones-in-112-Countries-Report.pdf">Mapping Religious Nones in 112 Countries: An Overview of European Values Study and World Values Survey Data (1981-2020)</a>. Prot. 8 / 07-2020, Fondazione Bruno Kessler.</h6>
