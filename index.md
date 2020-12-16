@@ -41,4 +41,4 @@
 <h6 align="left">• Balazka, D. (2020). <a href="https://isr.fbk.eu/wp-content/uploads/2020/07/Mapping-Religious-Nones-in-112-Countries-Report.pdf"><i>Mapping Religious Nones in 112 Countries: An Overview of European Values Study and World Values Survey Data (1981-2020)</i></a>. Prot. 8 / 07-2020, Fondazione Bruno Kessler.</h6>
 
 This is an attempt (most likely failed) to embed a working youtube video:
-{% include youtube.html id=7GqebvSl4fs %}
+{% include youtube.html id="7GqebvSl4fs" %}
