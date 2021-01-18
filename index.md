@@ -41,6 +41,6 @@ youtubeId: I0c3iUfrJIQ
 <h4 align="left">Reports and popular press:</h4>
 <h6 align="left">• Balazka, D. (2020, September 21). <a href="https://magazine.fbk.eu/en/news/big-data-big-faith-about-beliefs-and-biases-in-algorithmic-decision-making/">Big Data, Big Faith? About Beliefs and Biases in Algorithmic Decision-Making</a>. <i>FBK Magazine</i>.</h6>
 <h6 align="left">• Balazka, D. (2020, September 1). <a href="https://magazine.fbk.eu/it/news/la-non-religione-nel-mondo/">La Non-Religione nel Mondo</a>. <i>FBK Magazine</i>.</h6>
-<h6 align="left">• Balazka, D. (2020). <a href="https://isr.fbk.eu/wp-content/uploads/2020/07/Mapping-Religious-Nones-in-112-Countries-Report.pdf"><i>Mapping Religious Nones in 112 Countries: An Overview of European Values Study and World Values Survey Data (1981-2020)</i></a>. Prot. 8 / 07-2020, Fondazione Bruno Kessler.</h6>
+<h6 align="left">• Balazka, D. (2020). <a href="https://isr.fbk.eu/wp-content/uploads/2020/07/Mapping-Religious-Nones-in-112-Countries-Report.pdf"><i>Mapping Religious Nones in 112 Countries: An Overview of European Values Study and World Values Survey Data (1981-2020)</i></a>. Technical report, Prot. 8 / 07-2020, Fondazione Bruno Kessler.</h6>
 
 {% include youtubePlayer.html id=page.youtubeId %}
