@@ -8,7 +8,7 @@ youtubeId: I0c3iUfrJIQ
   <img src="images/Profile_rounded.png" width="200" />
 </p>
   
-<h6 align="justify">I’m a PhD student in Sociology and Methodology of Social Research at the University of Milan and the University of Turin, a joint PhD program of the Network for the Advancement of Social and Political Studies (NASP). The main focus of my research activity is on religious nones, survey methods and potential impact of Big Data on the emerging field of non-religion studies. In particular, my PhD project proposes a text mining approach to non-religious discourses in the United States and the United Kingdom between 1881 and 2020. Before joining NASP I worked as researcher at Bruno Kessler Foundation with a double affiliation to the Center for Information and Communication Technology and to the Center for Religious Studies. Formerly, I worked on the European Values Study 2017 at Tilburg University and collaborated with the Department of Sociology and Social Research and with the Department of Information Engineering and Computer Science of the University of Trento.</h6>
+<h6 align="justify">I’m a PhD student in Sociology and Methodology of Social Research at the University of Milan and the University of Turin, a joint PhD program of the Network for the Advancement of Social and Political Studies (NASP). The main focus of my research activity is on religious nones, survey methods and potential impact of Big Data on the emerging field of non-religion studies. In particular, my PhD project proposes a text mining approach to the analysis of non-religious discourses in the United States and the United Kingdom between 1881 and 2020. Before joining NASP I worked as researcher at Bruno Kessler Foundation with a double affiliation to the Center for Information and Communication Technology and to the Center for Religious Studies. Formerly, I worked on the European Values Study 2017 at Tilburg University and collaborated with the Department of Sociology and Social Research and with the Department of Information Engineering and Computer Science of the University of Trento.</h6>
 
 <hr>
 <center><p float="left">
@@ -34,7 +34,7 @@ youtubeId: I0c3iUfrJIQ
 <h4 align="left">Projects and data repositories:</h4>
 <h6 align="left">• Rodighiero, D., & Balazka, D. (2020). <a href="https://github.com/rodighiero/NSRN"><i>Cartography of Nonreligion and Secularity Research Network</i></a>. (work in progess)</h6>
 <center><p float="left">
-  <img src="images/NSRN.png" width="1000" />
+   <a href="https://rodighiero.github.io/NSRN/"> <img src="images/NSRN.png" width="1000" /> </a>
 </p>
 <br>
   
