@@ -32,7 +32,7 @@ youtubeId: I0c3iUfrJIQ
 <br>
   
 <h4 align="left">Projects and data repositories:</h4>
-<h6 align="left">• Rodighiero, D., & Balazka, D. (2020). <a href="https://doi.org/10.5281/zenodo.4495456"><i>Cartography of Nonreligion and Secularity Research Network</i></a>. Zenodo. DOI: 10.5281/zenodo.4495456</h6>
+<h6 align="left">• Rodighiero, D., & Balazka, D. (2021). <a href="https://doi.org/10.5281/zenodo.4495456"><i>Cartography of Nonreligion and Secularity Research Network</i></a>. Zenodo. DOI: 10.5281/zenodo.4495456</h6>
 <center><p float="left">
    <a href="https://rodighiero.github.io/NSRN/"> <img src="images/NSRN.png" width="1000" /> </a>
 </p>
