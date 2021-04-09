@@ -29,7 +29,7 @@ youtubeId: I0c3iUfrJIQ
   
 <h4 align="left">Conferences and webinars:</h4>
 <h6 align="left">• Balazka, D., & Rodighiero, D. (2021, June 16-18). <a href="https://nonreligionandsecularity.files.wordpress.com/2021/03/2021-nsrn-preliminary-conference-programme-03-2021.pdf">Mapping Scholarly Affinities in the Academic Study of Non-Religion and Secularity</a>. <i>Nonreligion and Secularity Research Network 2021</i>, Ottawa, Canada.</h6>
-<h6 align="left">• Balazka, D., & Rodighiero, D. (2021, February 24). <a href="https://www.academia.edu/44052412/Was_Blumer_Right_Religious_Values_and_Quantified_Self_in_the_Petabyte_Age">Was Blumer Right? Religious Values and Quantified Self in the Petabyte Age</a>. <i>Artificial Intelligence and Religion 2020/21</i>, Trento, Italy.</h6>
+<h6 align="left">• Balazka, D., & Rodighiero, D. (2021, February 24). <a href="https://www.researchgate.net/publication/344175954_Was_Blumer_Right_Religious_Values_and_Quantified_Self_in_the_Petabyte_Age">Was Blumer Right? Religious Values and Quantified Self in the Petabyte Age</a>. <i>Artificial Intelligence and Religion 2020/21</i>, Trento, Italy.</h6>
 <br>
   
 <h4 align="left">Projects and data repositories:</h4>
