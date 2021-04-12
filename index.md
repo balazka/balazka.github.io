@@ -24,6 +24,7 @@ youtubeId: I0c3iUfrJIQ
 <br>
   
 <h4 align="left">Peer-reviewed articles:</h4>
+<h6 align="left">• Balazka, D., Houtman, D., & Lepri, B. (2021). <a href="">How Can Big Data Shape the Field of Non-Religion Studies? And Why Does It Matter?</a>. Forthcoming in <i>Patterns</i>.</h6>
 <h6 align="left">• Balazka, D., & Rodighiero, D. (2020). <a href="https://doi.org/10.3389/fdata.2020.00031">Big Data and the Little Big Bang: An Epistemological (R)evolution</a>. <i>Frontiers in Big Data</i> 3, 31: 1-13.  DOI: 10.3389/fdata.2020.00031.</h6>
 <br>
   
