@@ -1,7 +1,7 @@
 ---
 youtubeId: I0c3iUfrJIQ
 ---
-<h1 align="center"><a href="">Dominik Balažka</a></h1>
+<h1 align="center"><a href="https://www.nasp.eu/people/students/students-cohorts/dominik-balaz%CC%8Cka.html">Dominik Balažka</a></h1>
 <br>
 
 <center><p float="left">
