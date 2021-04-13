@@ -1,15 +1,14 @@
 ---
 youtubeId: I0c3iUfrJIQ
 ---
-<h1 align="center"><a href="https://www.nasp.eu/people/students/students-cohorts/dominik-balaz%CC%8Cka.html">Dominik Balažka</a></h1>
+<h1 align="center"><a href="">Dominik Balažka</a></h1>
 <br>
 
 <center><p float="left">
   <img src="images/Profile_rounded.png" width="200" />
 </p>
   
-<h6 align="justify">I’m a PhD student in Sociology and Methodology of Social Research at the University of Milan and the University of Turin, a joint PhD program of the Network for the Advancement of Social and Political Studies (NASP). The main focus of my research activity is on religious nones, survey methods and potential impact of Big Data on the emerging field of non-religion studies. In particular, my PhD project proposes a text mining approach to the analysis of non-religious discourses in the United States and the United Kingdom between 1881 and 2020.</h6>
-<h6 align="justify">Before joining NASP I worked as researcher at Bruno Kessler Foundation with a double affiliation to the Center for Information and Communication Technology and to the Center for Religious Studies. Formerly, I worked on the European Values Study 2017 at Tilburg University and collaborated with the Department of Sociology and Social Research and with the Department of Information Engineering and Computer Science of the University of Trento.</h6>
+<h6 align="justify">I’m a PhD student in Sociology and Methodology of Social Research at the University of Milan and the University of Turin, a joint PhD program of the Network for the Advancement of Social and Political Studies (<a href="https://www.nasp.eu/people/students/students-cohorts/dominik-balaz%CC%8Cka.html">NASP</a>). The main focus of my research activity is on religious nones, survey methods and potential impact of Big Data on the emerging field of non-religion studies. In particular, my PhD project proposes a text mining approach to the analysis of non-religious discourses in the United States and the United Kingdom between 1881 and 2020. I'm currently a member of the International Society for Historians of Atheism, Secularism, and Humanism (<a href="https://atheismsecularismhumanism.wordpress.com/">ISHASH</a>). Before joining NASP I worked as researcher at Bruno Kessler Foundation with a double affiliation to the Center for Information and Communication Technology and to the Center for Religious Studies. Formerly, I worked on the European Values Study 2017 at Tilburg University and collaborated with the Department of Sociology and Social Research and with the Department of Information Engineering and Computer Science of the University of Trento.</h6>
 
 <hr>
 <center><p float="left">
