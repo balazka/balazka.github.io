@@ -24,8 +24,8 @@ youtubeId: I0c3iUfrJIQ
 <br>
   
 <h4 align="left">Peer-reviewed articles:</h4>
-<h6 align="left">• Balazka, D., Houtman, D., & Lepri, B. (2021). <a href="">How Can Big Data Shape the Field of Non-Religion Studies? And Why Does It Matter?</a> Forthcoming in <i>Patterns</i>.</h6>
-<h6 align="left">• Balazka, D., & Rodighiero, D. (2020). <a href="https://doi.org/10.3389/fdata.2020.00031">Big Data and the Little Big Bang: An Epistemological (R)evolution</a>. <i>Frontiers in Big Data</i> 3, 31: 1-13.  DOI: 10.3389/fdata.2020.00031.</h6>
+<h6 align="left">• Balazka, D., Houtman, D., & Lepri, B. (2021). <a href="https://doi.org/10.1016/j.patter.2021.100263">How Can Big Data Shape the Field of Non-Religion Studies? And Why Does It Matter?</a><i>Patterns</i> 2(6): 1-12. DOI: 10.1016/j.patter.2021.100263</h6>
+<h6 align="left">• Balazka, D., & Rodighiero, D. (2020). <a href="https://doi.org/10.3389/fdata.2020.00031">Big Data and the Little Big Bang: An Epistemological (R)evolution</a>. <i>Frontiers in Big Data</i> 3, 31: 1-13.  DOI: 10.3389/fdata.2020.00031</h6>
 <br>
   
 <h4 align="left">Conferences and webinars:</h4>
@@ -34,7 +34,7 @@ youtubeId: I0c3iUfrJIQ
 <br>
   
 <h4 align="left">Projects and data repositories:</h4>
-<h6 align="left">• Balazka, D., & Rodighiero, D. (2021). <a href="https://doi.org/10.5281/zenodo.4495456"><i>Cartography of Nonreligion and Secularity Research Network</i></a>. Zenodo. DOI: 10.5281/zenodo.4495456.</h6>
+<h6 align="left">• Balazka, D., & Rodighiero, D. (2021). <a href="https://doi.org/10.5281/zenodo.4495456"><i>Cartography of Nonreligion and Secularity Research Network</i></a>. Zenodo. DOI: 10.5281/zenodo.4495456</h6>
 <center><p float="left">
    <a href="https://rodighiero.github.io/NSRN/"> <img src="images/NSRN.png" width="1000" /> </a>
 </p>
