@@ -51,5 +51,5 @@ youtubeId: I0c3iUfrJIQ
 <br>
 
 <h4 align="left">Invited talks:</h4>
-<h6 align="left">• Balazka, D. (2021, November 11). <a href="https://drive.google.com/file/d/1h_L2vFT2xhFnCtmXYpndN4kdRALBKemY/view?usp=sharing">Verso una sociologia della (non-)religione? Sfide e opportunità</a>. Religione e Comunicazione (Strategie e Tecniche della Comunicazione), Università degli Studi di Siena.</h6>
+<h6 align="left">• Balazka, D. (2021, November 11). <a href="https://drive.google.com/file/d/10r_bGRASFh8VEcJmVLiMFb7quRdeIad9/view?usp=sharing">Verso una sociologia della (non-)religione? Sfide e opportunità</a>. Religione e Comunicazione (Strategie e Tecniche della Comunicazione), Università degli Studi di Siena.</h6>
 <h6 align="left">• Balazka, D. (2021, October 19). <a href="https://drive.google.com/file/d/1-jFOowWlEdqZ88VE1AYNHgDmPvGYTySO/view?usp=sharing">An Introduction to "Nones" in Sociology of Religion</a>. Global Law, Politics and Religion (Public and Cultural Diplomacy), Università degli Studi di Siena.</h6>
