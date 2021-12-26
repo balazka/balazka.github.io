@@ -29,7 +29,7 @@ youtubeId: I0c3iUfrJIQ
 <br>
   
 <h4 align="left">Conferences, workshops and webinars:</h4>
-<h6 align="left">• Balazka, D. (2021, October 28). <a href="https://drive.google.com/file/d/1C-ZjsNcYzC0EayFTnh2vzaNcE7x7NNGl/view?usp=sharing">Archives of Power and Power of archives</a>. <i>Data and computation cyberdiversity: Pluralismo e Intelligenza Artificiale. Nuove pratiche per l’analisi e lo studio delle tecnologie: Per un archivio dei rituali del nuovo abitare</i>, Trento, Italy.</h6>
+<h6 align="left">• Balazka, D. (2021, October 28). <a href="https://drive.google.com/file/d/1C-ZjsNcYzC0EayFTnh2vzaNcE7x7NNGl/view?usp=sharing">Archives of Power and Power of Archives</a>. <i>Data and computation cyberdiversity: Pluralismo e Intelligenza Artificiale. Nuove pratiche per l’analisi e lo studio delle tecnologie: Per un archivio dei rituali del nuovo abitare</i>, Trento, Italy.</h6>
 <h6 align="left">• Balazka, D., & Rodighiero, D. (2021, June 16-18). <a href="https://www.researchgate.net/publication/350755969_Mapping_Scholarly_Affinities_in_the_Academic_Study_of_Non-Religion_and_Secularity">Mapping Scholarly Affinities in the Academic Study of Non-Religion and Secularity</a>. <i>Nonreligion and Secularity Research Network 2021</i>, Ottawa, Canada.</h6>
 <h6 align="left">• Balazka, D., & Rodighiero, D. (2021, February 24). <a href="https://www.researchgate.net/publication/344175954_Was_Blumer_Right_Religious_Values_and_Quantified_Self_in_the_Petabyte_Age">Was Blumer Right? Religious Values and Quantified Self in the Petabyte Age</a>. <i>Artificial Intelligence and Religion 2020/21</i>, Trento, Italy.</h6>
 <br>
@@ -42,6 +42,7 @@ youtubeId: I0c3iUfrJIQ
 <br>
   
 <h4 align="left">Reports and popular press:</h4>
+<h6 align="left">• FBK-ISR (2021). <a href="https://isr.fbk.eu/en/policy-paper-2021-shaping-the-ai-transformationthe-agency-of-religious-and-belief-actors/"><i>Shaping the AI Transformation: The Agency of Religious or Belief Actors</i></a>. Policy paper, Prot. 2 / 09-2021, Fondazione Bruno Kessler.</h6>
 <h6 align="left">• Balazka, D. (2021, September 27). <a href="https://magazine.fbk.eu/en/news/mapping-affinities-towards-an-ethical-approach-to-network-visualization/">Mapping Affinities: Towards an Ethical Approach to Network Visualization</a>. <i>FBK Magazine</i>.</h6>
 <h6 align="left">• Balazka, D. (2020, September 21). <a href="https://magazine.fbk.eu/en/news/big-data-big-faith-about-beliefs-and-biases-in-algorithmic-decision-making/">Big Data, Big Faith? About Beliefs and Biases in Algorithmic Decision-Making</a>. <i>FBK Magazine</i>.</h6>
 <h6 align="left">• Balazka, D. (2020, September 1). <a href="https://magazine.fbk.eu/it/news/la-non-religione-nel-mondo/">La non-religione nel mondo</a>. <i>FBK Magazine</i>.</h6>
