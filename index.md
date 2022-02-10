@@ -18,7 +18,6 @@ youtubeId: I0c3iUfrJIQ
   <a href="http://orcid.org/0000-0002-1070-8673"> <img src="images/Orcid.png" width="25" /> </a> &nbsp;
   <a href="https://scholar.google.com/citations?user=5exeJbgAAAAJ&hl=en"> <img src="images/googleScholar.png" width="25" /> </a> &nbsp;
   <a href="https://www.researchgate.net/profile/Dominik_Balazka"> <img src="images/ResearchGate.png" width="25" /> </a> &nbsp;
-  <a href="https://unimi.academia.edu/DominikBalazka"> <img src="images/Academia.png" width="25" /> </a> &nbsp;
 </p>
 <hr>
 <br>
