@@ -27,19 +27,20 @@ youtubeId: I0c3iUfrJIQ
 <h6 align="left">• Balazka, D., & Rodighiero, D. (2020). <a href="https://doi.org/10.3389/fdata.2020.00031">Big Data and the Little Big Bang: An Epistemological (R)evolution</a>. <i>Frontiers in Big Data</i> 3, 31: 1-13.  DOI: 10.3389/fdata.2020.00031</h6>
 <br>
   
-<h4 align="left">Conferences, workshops and webinars:</h4>
-<h6 align="left">• Balazka, D. (2022, July 4-6). <a href="https://drive.google.com/file/d/1C-ZjsNcYzC0EayFTnh2vzaNcE7x7NNGl/view?usp=sharing">(Non-)Religion and the Tales from the Borderlands: The Potential of Text Mining and Open-Ended Questions in Survey Research</a>. <i>SocRel Annual Conference 2022: Disruption, Crisis and Continuity in Religion</i>, Online.</h6>
-<h6 align="left">• Fattorini, E., & Balazka, D. (2022, June 13). <a href="https://drive.google.com/file/d/1C-ZjsNcYzC0EayFTnh2vzaNcE7x7NNGl/view?usp=sharing">Vaccine Uptake and Mandatory Vaccination in the Italian Context of COVID-19: The Role of Religion, Risk Perception, and Trust in Science</a>. <i>ResPOnsE COVID-19 Workshop</i>, Milano, Italy.</h6>
-<h6 align="left">• Balazka, D. (2021, October 28). <a href="https://drive.google.com/file/d/1C-ZjsNcYzC0EayFTnh2vzaNcE7x7NNGl/view?usp=sharing">Archives of Power and Power of Archives</a>. <i>Data and computation cyberdiversity: Pluralismo e Intelligenza Artificiale. Nuove pratiche per l’analisi e lo studio delle tecnologie: Per un archivio dei rituali del nuovo abitare</i>, Trento, Italy.</h6>
-<h6 align="left">• Balazka, D., & Rodighiero, D. (2021, June 16-18). <a href="https://www.researchgate.net/publication/350755969_Mapping_Scholarly_Affinities_in_the_Academic_Study_of_Non-Religion_and_Secularity">Mapping Scholarly Affinities in the Academic Study of Non-Religion and Secularity</a>. <i>Nonreligion and Secularity Research Network 2021</i>, Online.</h6>
-<h6 align="left">• Balazka, D., & Rodighiero, D. (2021, February 24). <a href="https://www.researchgate.net/publication/344175954_Was_Blumer_Right_Religious_Values_and_Quantified_Self_in_the_Petabyte_Age">Was Blumer Right? Religious Values and Quantified Self in the Petabyte Age</a>. <i>Artificial Intelligence and Religion 2020/21</i>, Online.</h6>
-<br>
-  
 <h4 align="left">Software and data repositories:</h4>
 <h6 align="left">• Balazka, D., & Rodighiero, D. (2021). <a href="https://doi.org/10.5281/zenodo.4495456"><i>Cartography of Nonreligion and Secularity Research Network</i></a>. Zenodo. DOI: 10.5281/zenodo.4495456</h6>
 <center><p float="left">
    <a href="https://rodighiero.github.io/NSRN/"> <img src="images/NSRN.png" width="1000" /> </a>
 </p>
+<br>
+  
+<h4 align="left">Conferences, workshops and webinars:</h4>
+<h6 align="left">• Turkovic, A., & Balazka, D. (2022, September 29-30). <a href="https://europeanvaluesstudy.eu/third-italian-conference-of-evs-wvs-data-users/">In God we trust: Inter-religious othering, religiosity, and political orientation in Italy</a>. <i>Third Italian Conference of EVS/WVS Data Users</i>, Bergamo, Italy.</h6>
+<h6 align="left">• Balazka, D. (2022, July 4-6). <a href="https://drive.google.com/file/d/1C-ZjsNcYzC0EayFTnh2vzaNcE7x7NNGl/view?usp=sharing">(Non-)Religion and the Tales from the Borderlands: The Potential of Text Mining and Open-Ended Questions in Survey Research</a>. <i>SocRel Annual Conference 2022: Disruption, Crisis and Continuity in Religion</i>, Online.</h6>
+<h6 align="left">• Fattorini, E., & Balazka, D. (2022, June 13). <a href="https://drive.google.com/file/d/1C-ZjsNcYzC0EayFTnh2vzaNcE7x7NNGl/view?usp=sharing">Vaccine Uptake and Mandatory Vaccination in the Italian Context of COVID-19: The Role of Religion, Risk Perception, and Trust in Science</a>. <i>ResPOnsE COVID-19 Workshop</i>, Milano, Italy.</h6>
+<h6 align="left">• Balazka, D. (2021, October 28). <a href="https://drive.google.com/file/d/1C-ZjsNcYzC0EayFTnh2vzaNcE7x7NNGl/view?usp=sharing">Archives of Power and Power of Archives</a>. <i>Data and computation cyberdiversity: Pluralismo e Intelligenza Artificiale. Nuove pratiche per l’analisi e lo studio delle tecnologie: Per un archivio dei rituali del nuovo abitare</i>, Trento, Italy.</h6>
+<h6 align="left">• Balazka, D., & Rodighiero, D. (2021, June 16-18). <a href="https://www.researchgate.net/publication/350755969_Mapping_Scholarly_Affinities_in_the_Academic_Study_of_Non-Religion_and_Secularity">Mapping Scholarly Affinities in the Academic Study of Non-Religion and Secularity</a>. <i>Nonreligion and Secularity Research Network 2021</i>, Online.</h6>
+<h6 align="left">• Balazka, D., & Rodighiero, D. (2021, February 24). <a href="https://www.researchgate.net/publication/344175954_Was_Blumer_Right_Religious_Values_and_Quantified_Self_in_the_Petabyte_Age">Was Blumer Right? Religious Values and Quantified Self in the Petabyte Age</a>. <i>Artificial Intelligence and Religion 2020/21</i>, Online.</h6>
 <br>
   
 <h4 align="left">Reports and popular press:</h4>
