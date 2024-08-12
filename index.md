@@ -8,7 +8,7 @@ youtubeId: I0c3iUfrJIQ
   <img src="images/Profile_rounded.png" width="200" />
 </p>
   
-<h6 align="justify">I’m a PhD candidate in Sociology and Methodology of Social Research at the University of Milan and the University of Turin, a joint PhD program of the Network for the Advancement of Social and Political Studies (<a href="https://www.nasp.eu/people/students/students-cohorts/dominik-balaz%CC%8Cka.html">NASP</a>). As part of a co-supervision agreement, in 2021 I enrolled in the doctoral program in Social Sciences at <a href="https://www.kuleuven.be/wieiswie/en/person/00151076">KU Leuven</a>. The main focus of my research activity is on religious nones, survey methods and potential impact of Big Data on the emerging field of non-religion studies. In particular, my PhD project proposes a text mining approach to the analysis of non-religious discourses in the United States and the United Kingdom between 1881 and 2019. I'm currently a member of the Society for the Scientific Study of Religion (<a href="https://sssreligion.org/">SSSR</a>) and of the International Society for Historians of Atheism, Secularism, and Humanism (<a href="https://atheismsecularismhumanism.wordpress.com/">ISHASH</a>). Before joining NASP I worked as researcher at Bruno Kessler Foundation with a double affiliation to the Center for Information and Communication Technology and to the Center for Religious Studies. Formerly, I worked on the European Values Study 2017 at Tilburg University and collaborated with the Department of Sociology and Social Research and with the Department of Information Engineering and Computer Science of the University of Trento.</h6>
+<h6 align="justify">I’m a PhD candidate in Sociology and Methodology of Social Research at the University of Milan and the University of Turin, a joint PhD program of the Network for the Advancement of Social and Political Studies (<a href="https://www.nasp.eu/people/students/students-cohorts/dominik-balaz%CC%8Cka.html">NASP</a>). As part of a co-supervision agreement, in 2021 I enrolled in the doctoral program in Social Sciences at <a href="https://www.kuleuven.be/wieiswie/en/person/00151076">KU Leuven</a>. The main focus of my research activity is on religious nones, survey methods and potential impact of Big Data on the emerging field of non-religion studies. In particular, my PhD project proposes a text mining approach to the analysis of non-religious discourses in the United States and the United Kingdom between 1881 and 2019. I'm currently a member of the <a href="https://www.spstrend.it">spsTrend</a> laboratory, of the Society for the Scientific Study of Religion (<a href="https://sssreligion.org/">SSSR</a>), and of the International Society for Historians of Atheism, Secularism, and Humanism (<a href="https://atheismsecularismhumanism.wordpress.com/">ISHASH</a>). Before joining NASP I worked as researcher at Bruno Kessler Foundation with a double affiliation to the Center for Information and Communication Technology and to the Center for Religious Studies. Formerly, I worked on the European Values Study 2017 at Tilburg University and collaborated with the Department of Sociology and Social Research and with the Department of Information Engineering and Computer Science of the University of Trento.</h6>
 
 <hr>
 <center><p float="left">
@@ -22,12 +22,17 @@ youtubeId: I0c3iUfrJIQ
 <hr>
 <br>
   
-<h4 align="left">Peer-reviewed articles:</h4>
+<h4 align="left">Peer-reviewed:</h4>
+<h6 align="left">• Balazka, D. (2024). <a href="">An Introduction to Nones in the Sociology of Religion</a> Under review in Oxford Research Encyclopedia of Religion.</h6>
 <h6 align="left">• Balazka, D., Houtman, D., & Lepri, B. (2021). <a href="https://doi.org/10.1016/j.patter.2021.100263">How Can Big Data Shape the Field of Non-Religion Studies? And Why Does It Matter?</a> <i>Patterns</i> 2(6): 1-12. DOI: 10.1016/j.patter.2021.100263</h6>
 <h6 align="left">• Balazka, D., & Rodighiero, D. (2020). <a href="https://doi.org/10.3389/fdata.2020.00031">Big Data and the Little Big Bang: An Epistemological (R)evolution</a>. <i>Frontiers in Big Data</i> 3, 31: 1-13.  DOI: 10.3389/fdata.2020.00031</h6>
 <br>
   
 <h4 align="left">Software and data repositories:</h4>
+<h6 align="left">• Balazka, D. (2024). <a href="https://balazka.github.io/Semantic-Network-of-Organized-Nonreligious-Discourses/#"><i>Semantic Network of Organized Nonreligious Discourses</i></a>.</h6>
+<center><p float="left">
+   <a href="Semantic Network of Organized Nonreligious Discourses"> <img src="images/Semantic_Network_NR.png" width="1000" /> </a>
+</p>
 <h6 align="left">• Balazka, D., & Rodighiero, D. (2021). <a href="https://doi.org/10.5281/zenodo.4495456"><i>Cartography of Nonreligion and Secularity Research Network</i></a>. Zenodo. DOI: 10.5281/zenodo.4495456</h6>
 <center><p float="left">
    <a href="https://rodighiero.github.io/NSRN/"> <img src="images/NSRN.png" width="1000" /> </a>
