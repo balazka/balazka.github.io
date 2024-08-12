@@ -31,7 +31,7 @@ youtubeId: I0c3iUfrJIQ
 <h4 align="left">Software and data repositories:</h4>
 <h6 align="left">• Balazka, D. (2024). <a href="https://balazka.github.io/Semantic-Network-of-Organized-Nonreligious-Discourses/#"><i>Semantic Network of Organized Nonreligious Discourses</i></a>.</h6>
 <center><p float="left">
-   <a href="Semantic Network of Organized Nonreligious Discourses"> <img src="images/Semantic_Network_NR.png" width="1000" /> </a>
+   <a href="https://balazka.github.io/Semantic-Network-of-Organized-Nonreligious-Discourses/#"> <img src="images/Semantic_Network_NR.png" width="1000" /> </a>
 </p>
 <h6 align="left">• Balazka, D., & Rodighiero, D. (2021). <a href="https://doi.org/10.5281/zenodo.4495456"><i>Cartography of Nonreligion and Secularity Research Network</i></a>. Zenodo. DOI: 10.5281/zenodo.4495456</h6>
 <center><p float="left">
