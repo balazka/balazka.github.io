@@ -29,7 +29,7 @@ youtubeId: I0c3iUfrJIQ
 <br>
   
 <h4 align="left">Software and data repositories:</h4>
-<h6 align="left">• Balazka, D. (2024). <a href="https://balazka.github.io/Semantic-Network-of-Organized-Nonreligious-Discourses/#"><i>Semantic Network of Organized Non-Religious Discourses</i></a>.</h6>
+<h6 align="left">• Balazka, D. (2024). <a href="https://zenodo.org/doi/10.5281/zenodo.13737530"><i>Semantic Network of Organized Non-Religious Discourses</i></a>. Zenodo. DOI: 10.5281/zenodo.13737530</h6>
 <center><p float="left">
    <a href="https://balazka.github.io/Semantic-Network-of-Organized-Nonreligious-Discourses/#"> <img src="images/Semantic_Network_NR.png" width="1000" /> </a>
 </p>
