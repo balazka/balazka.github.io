@@ -28,7 +28,7 @@ youtubeId: I0c3iUfrJIQ
 <h6 align="left">• Balazka, D., & Rodighiero, D. (2020). <a href="https://doi.org/10.3389/fdata.2020.00031">Big Data and the Little Big Bang: An Epistemological (R)evolution</a>. <i>Frontiers in Big Data</i> 3, 31: 1-13.  DOI: 10.3389/fdata.2020.00031</h6>
 <br>
   
-<h4 align="left">Software and data repositories:</h4>
+<h4 align="left">Code and data vizualizations:</h4>
 <h6 align="left">• Balazka, D. (2024). <a href="https://zenodo.org/doi/10.5281/zenodo.13737530"><i>Semantic Network of Organized Non-Religious Discourses</i></a>. Zenodo. DOI: 10.5281/zenodo.13737530</h6>
 <center><p float="left">
    <a href="https://balazka.github.io/Semantic-Network-of-Organized-Nonreligious-Discourses/#"> <img src="images/Semantic_Network_NR.png" width="1000" /> </a>
@@ -40,6 +40,8 @@ youtubeId: I0c3iUfrJIQ
 <br>
   
 <h4 align="left">Conferences, workshops and webinars:</h4>
+<h6 align="left">• Balazka, D. (2025, January 15-18). <a href="https://cs2italy.org">Secularization of Language: An NLP Approach to the Changing Perception of Religious Others in British and American Non-Religious Organizations (1881-2019)</a>. <i>CS2ITALY2025: 1st Conference
+on Computational Social Science</i>, Trento, Italy.</h6>
 <h6 align="left">• Turkovic, A., & Balazka, D. (2022, September 29-30). <a href="https://europeanvaluesstudy.eu/third-italian-conference-of-evs-wvs-data-users/">In God we trust: Inter-religious othering, religiosity, and political orientation in Italy</a>. <i>Third Italian Conference of EVS/WVS Data Users</i>, Bergamo, Italy.</h6>
 <h6 align="left">• Balazka, D. (2022, July 4-6). <a href="https://www.britsoc.co.uk/groups/study-groups/sociology-of-religion-study-group/events/">(Non-)Religion and the Tales from the Borderlands: The Potential of Text Mining and Open-Ended Questions in Survey Research</a>. <i>SocRel Annual Conference 2022: Disruption, Crisis and Continuity in Religion</i>, Online.</h6>
 <h6 align="left">• Fattorini, E., & Balazka, D. (2022, June 13). <a href="https://www.spstrend.it/save-the-date-response-covid-19-workshop-june-13th-2022/">Vaccine Uptake and Mandatory Vaccination in the Italian Context of COVID-19: The Role of Religion, Risk Perception, and Trust in Science</a>. <i>ResPOnsE COVID-19 Workshop</i>, Milano, Italy.</h6>
