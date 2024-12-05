@@ -26,10 +26,14 @@ I'm currently a member of the <a href="https://www.spstrend.it">spsTREND</a> lab
 <hr>
 <br>
   
-<h4 align="left">Peer-reviewed:</h4>
-<h6 align="left">• Balazka, D. (2024). <a href="">An Introduction to the Nones in Sociology of Religion</a> Under review in Oxford Research Encyclopedia of Religion.</h6>
+<h4 align="left">Articles:</h4>
+<h6 align="left">• Balazka, D. (2024). An Introduction to the Nones in Sociology of Religion. Under review in <i>Oxford Research Encyclopedia of Religion</i>i>.</h6>
 <h6 align="left">• Balazka, D., Houtman, D., & Lepri, B. (2021). <a href="https://doi.org/10.1016/j.patter.2021.100263">How Can Big Data Shape the Field of Non-Religion Studies? And Why Does It Matter?</a> <i>Patterns</i> 2(6): 1-12. DOI: 10.1016/j.patter.2021.100263</h6>
 <h6 align="left">• Balazka, D., & Rodighiero, D. (2020). <a href="https://doi.org/10.3389/fdata.2020.00031">Big Data and the Little Big Bang: An Epistemological (R)evolution</a>. <i>Frontiers in Big Data</i> 3, 31: 1-13.  DOI: 10.3389/fdata.2020.00031</h6>
+<br>
+
+<h4 align="left">Book chapters:</h4>
+<h6 align="left">• Fattorini, E., & Balazka, D. (2025). Is Religion Bad for You? Vaccine Hesitancy and Religiosity in the Pandemic Context. Forthcoming in Giansoldati, M. (ed.), <i>Pandemia e vaccinazioni: Aspetti economici, sociali e politici</i>. Edizioni Universitarie Triestine.</h6>
 <br>
   
 <h4 align="left">Code and data visualizations:</h4>
