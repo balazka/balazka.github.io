@@ -32,8 +32,9 @@ I'm currently a member of the <a href="https://www.spstrend.it">spsTREND</a> lab
 <h6 align="left">• Balazka, D., & Rodighiero, D. (2020). <a href="https://doi.org/10.3389/fdata.2020.00031">Big Data and the Little Big Bang: An Epistemological (R)evolution</a>. <i>Frontiers in Big Data</i> 3, 31: 1-13.  DOI: 10.3389/fdata.2020.00031</h6>
 <br>
 
-<h4 align="left">Book chapters:</h4>
+<h4 align="left">Book chapters, monographs, and dissertations:</h4>
 <h6 align="left">• Fattorini, E., & Balazka, D. (2025). Is Religion Bad for You? Vaccine Hesitancy and Religiosity in the Pandemic Context. Forthcoming in Giansoldati, M. (ed.), <i>Pandemia e vaccinazioni: Aspetti economici, sociali e politici</i>. Edizioni Universitarie Triestine.</h6>
+<h6 align="left">• Balazka, D. (2025). <a href="https://hdl.handle.net/2434/1135895">Non-Religious Discourses and the Secularization of the Secular: A Computational Study of Organized Non-Religion in the United States and the United Kingdom (1881-2019)</a>. [Doctoral dissertation, University of Milan/University of Turin/KU Leuven]. AIR/IRIS.</h6>
 <br>
   
 <h4 align="left">Code and data visualizations:</h4>
