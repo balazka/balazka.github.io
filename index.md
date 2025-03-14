@@ -33,7 +33,7 @@ I'm currently a member of the <a href="https://www.spstrend.it">spsTREND</a> lab
 <br>
 
 <h4 align="left">Book chapters, monographs, and dissertations:</h4>
-<h6 align="left">• Fattorini, E., & Balazka, D. (2025). <a href="https://www.openstarts.units.it/handle/10077/37041">Is Religion Bad for You? Vaccine Hesitancy and Religiosity in the Pandemic Context</a>. In Giansoldati, M. (ed.), <i><a href="https://www.openstarts.units.it/handle/10077/37031">Pandemia e vaccinazioni: Aspetti economici, sociali e politici</a></i>. Edizioni Universitarie Triestine.</h6>
+<h6 align="left">• Fattorini, E., & Balazka, D. (2025). <a href="https://www.openstarts.units.it/handle/10077/37041">Is Religion Bad for You? Vaccine Hesitancy and Religiosity in the Pandemic Context</a>. In Giansoldati, M. (ed.), <i><a href="https://www.openstarts.units.it/handle/10077/37031">Pandemia e vaccinazioni: Aspetti economici, sociali e politici</a></i>. Edizioni Università di Trieste.</h6>
 <h6 align="left">• Balazka, D. (2025). <a href="https://hdl.handle.net/2434/1135895">Non-Religious Discourses and the Secularization of the Secular: A Computational Study of Organized Non-Religion in the United States and the United Kingdom (1881-2019)</a>. [Doctoral dissertation, University of Milan/University of Turin/KU Leuven]. AIR/IRIS.</h6>
 <br>
   
