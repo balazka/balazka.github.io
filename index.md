@@ -8,7 +8,7 @@ youtubeId: I0c3iUfrJIQ
   <img src="images/Profile_rounded.png" width="200" />
 </p>
   
-<h6 align="justify">I have a PhD in Social Sciences awarded by KU Leuven (Belgium), and a PhD in Sociology and Methodology of Social Research awarded by the University of Milan (Italy) and the University of Turin (Italy).
+<h6 align="justify">I have a PhD in Social Sciences awarded by KU Leuven (Belgium), and a joint PhD in Sociology and Methodology of Social Research awarded by the University of Milan (Italy) and the University of Turin (Italy).
 <br>
 My primary research interests include non-religion studies, sociology of religion, cultural sociology, data ethics, Natural Language Processing, survey methods, Artificial Intelligence and Big Data. My PhD project employed a text mining approach to analyze the public discourse of militant non-religious organizations in the United States and the United Kingdom between 1881 and 2019. The study aimed to investigate the impact of secularization on the historical evolution of organized non-religious language.
 <br>
