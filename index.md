@@ -27,7 +27,7 @@ I'm a member of several scientific societies, including Society for the Scientif
 <br>
   
 <h4 align="left">Articles:</h4>
-<h6 align="left">• Balazka, D. (2025). <a href="https://doi.org/10.1093/acrefore/9780199340378.013.1213">Religious Nones</a>. <i>Oxford Research Encyclopedia of Religion</i>: 1-1x. DOI: 10.1093/acrefore/9780199340378.013.1213</h6>
+<h6 align="left">• Balazka, D. (2025). <a href="https://doi.org/10.1093/acrefore/9780199340378.013.1213">Religious Nones</a>. <i>Oxford Research Encyclopedia of Religion</i>: 1-24. DOI: 10.1093/acrefore/9780199340378.013.1213</h6>
 <h6 align="left">• Balazka, D., Houtman, D., & Lepri, B. (2021). <a href="https://doi.org/10.1016/j.patter.2021.100263">How Can Big Data Shape the Field of Non-Religion Studies? And Why Does It Matter?</a> <i>Patterns</i> 2(6): 1-12. DOI: 10.1016/j.patter.2021.100263</h6>
 <h6 align="left">• Balazka, D., & Rodighiero, D. (2020). <a href="https://doi.org/10.3389/fdata.2020.00031">Big Data and the Little Big Bang: An Epistemological (R)evolution</a>. <i>Frontiers in Big Data</i> 3, 31: 1-13.  DOI: 10.3389/fdata.2020.00031</h6>
 <br>
