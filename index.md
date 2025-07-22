@@ -1,14 +1,14 @@
 ---
 youtubeId: I0c3iUfrJIQ
 ---
-<h1 align="center"><a href="https://www.nasp.eu/people/students/students-cohorts/dominik-balaz%CC%8Cka.html">Dominik Balažka</a></h1>
+<h1 align="center"><a href="">Dominik Balažka</a></h1>
 <br>
 
 <center><p float="left">
   <img src="images/Profile_rounded.png" width="200" />
 </p>
   
-<h6 align="justify"> I'm currently a member of the <a href="https://www.spstrend.it">spsTREND</a> laboratory, at the University of Milan. My primary research interests include non-religion studies, sociology of religion, cultural sociology, data ethics, Natural Language Processing, survey methods, Artificial Intelligence, and Big Data. 
+<h6 align="justify"> I'm currently a research associate at the <a href="https://www.comparativeculturology.com">Comparative Culturology Lab</a> (Lingnan University, Hong Kong) and a reaserch fellow at the <a href="https://www.spstrend.it">spsTREND</a> laboratory (University of Milan, Italy). My primary research interests include non-religion studies, sociology of religion, cultural sociology, data ethics, Natural Language Processing, survey methods, Artificial Intelligence, and Big Data. 
 <br>
 I have a PhD in Social Sciences awarded by KU Leuven (Belgium), and a joint PhD in Sociology and Methodology of Social Research awarded by the University of Milan (Italy) and the University of Turin (Italy). My PhD project employed a text mining approach to analyze the public discourse of militant non-religious organizations in the United States and the United Kingdom between 1881 and 2019. The study aimed to investigate the impact of secularization on the historical evolution of organized non-religious language.
 <br>
