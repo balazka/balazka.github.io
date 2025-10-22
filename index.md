@@ -60,6 +60,7 @@ I'm a member of several scientific societies, including Society for the Scientif
 <br>
   
 <h4 align="left">Reports and popular press:</h4>
+<h6 align="left">• Bucchi, M., Rubin, A., & Balazka, D. (2025). <a href=""><i>L'Intelligenza Artificiale in Emilia-Romagna: percezioni, preoccupazioni e aspettative dei cittadini</i></a>. Technical report, Observa Science in Society.</h6>
 <h6 align="left">• Balazka, D. (2022, January 17). <a href="https://magazine.fbk.eu/en/news/non-religion-big-data-and-ai-ethics-is-bigger-necessarily-better/">(Non-)Religion, Big Data and AI Ethics: Is Bigger Necessarily Better?</a> <i>FBK Magazine</i>.</h6> 
 <h6 align="left">• FBK-ISR (2021). <a href="https://isr.fbk.eu/en/policy-paper-2021-shaping-the-ai-transformationthe-agency-of-religious-and-belief-actors/"><i>Shaping the AI Transformation: The Agency of Religious or Belief Actors</i></a>. Policy paper, Prot. 2 / 09-2021, Fondazione Bruno Kessler.</h6>
 <h6 align="left">• Balazka, D. (2021, September 27). <a href="https://magazine.fbk.eu/en/news/mapping-affinities-towards-an-ethical-approach-to-network-visualization/">Mapping Affinities: Towards an Ethical Approach to Network Visualization</a>. <i>FBK Magazine</i>.</h6>
