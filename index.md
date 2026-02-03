@@ -16,7 +16,7 @@ I'm a member of several scientific societies, including Society for the Scientif
 
 <hr>
 <center><p float="left">
-  <a href="mailto:dominik.balazka@unimi.it"> <img src="images/Email.png" width="25" /> </a> &nbsp;
+  <a href="mailto:dominik.balazka@gmail.com"> <img src="images/Email.png" width="25" /> </a> &nbsp;
   <a href="https://www.linkedin.com/in/dominikbalazka/?locale=en_US"> <img src="images/Linkedin.png" width="25" /> </a> &nbsp;
   <a href="http://orcid.org/0000-0002-1070-8673"> <img src="images/Orcid.png" width="25" /> </a> &nbsp;
   <a href="https://scholar.google.com/citations?user=5exeJbgAAAAJ&hl=en"> <img src="images/googleScholar.png" width="25" /> </a> &nbsp;
